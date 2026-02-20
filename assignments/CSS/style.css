@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    margin: 0px 10%;
+}
+header {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 2rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 2rem;  
+}
+h3 {
+    font-size: 1.25rem;
+}
+.circle {
+    border-radius: 50%;
+    border: 5px solid #9abcf8;
+} 
