@@ -1,6 +1,10 @@
 body {
     font-family: sans-serif;
     margin: 0px 10%;
+    background-image: url("../Images/dynamic-style.webp");
+}
+.container {
+    background-color: white;
 }
 header {
     background-color: #ff4d4d;
